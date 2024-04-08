@@ -1,1 +1,1 @@
-# strategy-pattern
+# trading-platform-strategy-pattern
